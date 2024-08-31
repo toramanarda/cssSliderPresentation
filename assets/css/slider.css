@@ -85,6 +85,7 @@ h6 {
 
 .hero {
   display: flex;
+  padding: 40px;
   justify-content: center;
 }
 
